@@ -1,0 +1,2 @@
+# bot
+visão de futuro
